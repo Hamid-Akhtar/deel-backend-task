@@ -1,4 +1,3 @@
-## Sections/Components
 Simple React App created using `create-react-app`
 ## Packages used  
 - **react-router-dom** for routing
